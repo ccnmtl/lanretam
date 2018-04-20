@@ -1,0 +1,7 @@
+baseURL = "https://lanretam.ctl.columbia.edu/"
+metaDataFormat = "yaml"
+languageCode = "en-us"
+title = "The Republic of Lanretam Ministry of Health"
+
+[params]
+    shortTitle = "Lanretam"
