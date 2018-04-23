@@ -1,7 +1,7 @@
 STAGING_URL=https://lanretam.stage.ccnmtl.columbia.edu/
-PROD_URL=https://lanretam.ctl.columbia.edu/
+PROD_URL=http://ccnmtl.columbia.edu/projects/lanretamhugo/
 STAGING_BUCKET=lanretam.stage.ccnmtl.columbia.edu
-PROD_BUCKET=lanretam.ctl.columbia.edu
+PROD_BUCKET=ccnmtl.columbia.edu/projects/lanretamhugo/
 INTERMEDIATE_STEPS ?= echo nothing
 HUGO=/usr/local/bin/hugo-0.25.1
 
