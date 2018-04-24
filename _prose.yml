@@ -1,0 +1,4 @@
+prose:
+  rooturl: 'content'
+  siteurl: 'http://ccnmtl.columbia.edu/projects/lanretamhugo'
+  media: 'static/img/'
